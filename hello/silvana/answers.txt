@@ -1,0 +1,6 @@
+1.- 3
+2.- Applications	Desktop		Documents	Downloads	GitHub		Library		Movies		Music		Pictures	Public		repos
+3.- Applications	Desktop		Documents	Downloads	GitHub		Library		Movies		Music		Pictures	Public		repos
+4.- Users  TSP desktop
+8.-test_a.txt , test_b.txt
+9.- genera un archivo de texto.
